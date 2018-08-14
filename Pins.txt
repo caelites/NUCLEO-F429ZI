@@ -1,0 +1,31 @@
+HC-SR04
+PF3 - echo, brown
+PF13 - trig, white
+
+LED's(in)
+PB0 - LY
+PB7 - LB
+PB14 - LR
+
+CDS sensor
+PA0 - CDS, yellow
+PA11 - LED_GREEN, crimson
+
+PWM - L298N
+out1,2 - TIM2 PWM CH1 (PA5) CH2 (PA1)
+out3,4 - TIM2 PWM CH3 (PB10) CH4 (PB11)
+
+
+Bluetooth - HC-04
+
+PA2 - USART2_TX
+PA3 - USART2_RX
+
+Android app USART2(Bluetooth)
+
+W - front
+S  - Back
+R -  right
+L -  left
+N - Stop
+P - LED on&off
