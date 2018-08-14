@@ -23,5 +23,3 @@ STM32F429ZI(NUCLEO-F429ZI 보드) HAL driver 를 이용한 RC차량<br><br>
 HC-SR04의 사용법은 HAL_GPIO_EXTI_Callback 부분을 참조<br><br>
 
 사용했던 핀 배열은 Pins.txt를 참조<br>
-
-
