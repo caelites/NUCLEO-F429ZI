@@ -3,7 +3,7 @@ STM32F429ZI(NUCLEO-F429ZI 보드) HAL driver 를 이용한 RC차량<br><br>
 
 사용한 개발환경<br>
 &nbsp; &nbsp; STM32CubeMX<br>
-&nbsp; &nbsp; IAR Embedded workbench<br><br>
+&nbsp; &nbsp; IAR Embedded workbench ARM 8.30<br><br>
 
 사용한 모듈<br>
 &nbsp; &nbsp; 초음파센서: HC-SR04<br>
